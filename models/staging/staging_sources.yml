@@ -7,7 +7,7 @@ sources:
     - name: weather_daily_all
 
 - name: flights_data
-  schema: public
+  schema: clear_skies
   tables:
     - name: flights_selected
     - name: airports_selected
