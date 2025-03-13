@@ -1,0 +1,14 @@
+version: 2
+sources:
+
+- name: weather_data
+  schema: clear_skies
+  tables:
+    - name: weather_daily_all
+
+- name: flights_data
+  schema: public
+  tables:
+    - name: flights_selected
+    - name: airports_selected
+    - name: regions
