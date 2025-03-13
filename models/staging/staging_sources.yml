@@ -9,6 +9,7 @@ sources:
 - name: flights_data
   schema: clear_skies
   tables:
-    - name: flights_selected
+    - name: flights_all_jan_feb_2024
     - name: airports_selected
     - name: regions
+
